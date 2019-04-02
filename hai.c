@@ -2,5 +2,6 @@
 void main()
 {
  printf("hai");
+printf("hello");
 getch();
 }
